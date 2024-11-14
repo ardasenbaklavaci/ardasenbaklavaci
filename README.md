@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on .NET Core... Also working on React,Node JS,Android Developement (Kotlin, Java, .NET Maui)
 
-😄 Knowledge does not mean success... Your diploma, your skills, your knowledge, your grades... No matter if you dont be a Human... For me, teamwork, human relationships and communication is the keypoint of success...
+😄 Knowledge does not mean success... Your diploma, your skills, your knowledge, your grades... No matter if you dont be a Human... For me, teamwork, human relationships and communication is the keypoint of success... Share your experience and knowledge. Love learning other people's experience and gathering information, learning...
 
 🌱 Extra/Hobby Knowledge : Game Developement, Game Design, Machine Learning, Data Science 
 
@@ -77,6 +77,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🤝🏻 &nbsp;How To Reach Me?
+
+<p align="center">
+  <a href="mailto:ardasenbakkavaci@gmail.com"><img src="https://img.shields.io/badge/-ardasenbakkavaci@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arda-%C5%9Fenbaklavac%C4%B1-a1a411277/"><img src="https://img.shields.io/badge/-arda_senbaklavaci-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 
 
