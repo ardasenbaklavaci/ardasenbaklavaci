@@ -19,8 +19,6 @@
   
 </div>
 
-<meta name="google-site-verification" content="xh3U26uyWhGT0jIDhKngMQzyt5gUl7ozsBfEut-SQWs" />
-
 ### 🛠 &nbsp;Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
